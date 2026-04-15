@@ -34,8 +34,8 @@ Ensures safety with real-time alerts.
 ---
 
 ## 📫 Connect
-- LinkedIn: add your link here  
-- Email: your email here  
+- LinkedIn: www.linkedin.com/in/vijayalakshmi-muthusamy-20827b290  
+- Email: vijayalakshmi.m18122gmail.com 
 
 ---
 
