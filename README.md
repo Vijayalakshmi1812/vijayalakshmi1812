@@ -1,42 +1,54 @@
 # Hi, I'm Vijayalakshmi 👋
 
-🎓 AI & Data Science Student  
+🎓 B.Tech AI & Data Science Student (CGPA: 9.04)  
+🏆 Best Paper Award – ICMICC'24  
 🚀 Passionate about AI, IoT & Healthcare Tech  
 
 ---
 
 ## 💡 About Me
-- 🔭 Working on AI-based health monitoring systems  
-- 🌱 Learning Machine Learning & Full Stack Development  
-- 🎯 Interested in solving real-world problems using AI  
+- 🔭 Building AI & IoT solutions for real-world problems  
+- 🌱 Learning Machine Learning, Data Science & Full Stack  
+- 🎯 Interested in Healthcare AI and Smart Systems  
 
 ---
 
 ## 🛠 Skills
-- Python, C, SQL  
-- HTML  
-- Arduino, ESP8266  
-- Machine Learning, IoT  
+- Languages: Python, C, Java, SQL  
+- Tools: Power BI, Scikit-learn, Matplotlib  
+- Platforms: Arduino, MySQL, Google Colab, VS Code  
+- Technologies: IoT, Firebase, GSM, Sensor Integration  
 
 ---
 
 ## 📌 Projects
 
 ### 🧠 AI-Powered Health Monitoring System (ASD)
-Predicts mood changes and sensory overload using AI.
+Predicts mood changes and sensory overload using ML and sensor data.
 
 ### 🌾 Smart Agro Storage System
-Monitors temperature, humidity & gas levels using IoT.
+IoT-based storage system controlling temperature, humidity & ethylene gas.
 
-### 👶 Smart IoT Baby Car Seat
-Ensures safety with real-time alerts.
+### 🐟 Smart Fish Finder
+AI + IoT system to detect fish-rich zones using environmental data.
+
+### 👶 Smart Baby Car Seat
+Real-time monitoring system with GSM alerts and Firebase logging.
+
+---
+
+## 🏆 Achievements
+- 🥇 Best Paper Award – ICMICC'24  
+- 🧾 Paper Presentation – ICAIDAR 2026  
+- 🚀 Startup Pitch – VISAI 2025  
+- 💻 Hackathon – SRM Institute  
 
 ---
 
 ## 📫 Connect
-- LinkedIn: www.linkedin.com/in/vijayalakshmi-muthusamy-20827b290  
-- Email: vijayalakshmi.m18122gmail.com 
+- LinkedIn: https://www.linkedin.com/in/vijayalakshmi-muthusamy-20827b290  
+- Email: vijayalakshmi.m1812@gmail.com  
 
 ---
 
-⭐ Building projects step by step
+⭐ Consistently building and learning
