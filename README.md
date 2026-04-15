@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Vijayalakshmi 👋
 
-<!--
-**Vijayalakshmi1812/vijayalakshmi1812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI & Data Science Student  
+🚀 Passionate about AI, IoT & Healthcare Tech  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+- 🔭 Working on AI-based health monitoring systems  
+- 🌱 Learning Machine Learning & Full Stack Development  
+- 🎯 Interested in solving real-world problems using AI  
+
+---
+
+## 🛠 Skills
+- Python, C, SQL  
+- HTML  
+- Arduino, ESP8266  
+- Machine Learning, IoT  
+
+---
+
+## 📌 Projects
+
+### 🧠 AI-Powered Health Monitoring System (ASD)
+Predicts mood changes and sensory overload using AI.
+
+### 🌾 Smart Agro Storage System
+Monitors temperature, humidity & gas levels using IoT.
+
+### 👶 Smart IoT Baby Car Seat
+Ensures safety with real-time alerts.
+
+---
+
+## 📫 Connect
+- LinkedIn: add your link here  
+- Email: your email here  
+
+---
+
+⭐ Building projects step by step
